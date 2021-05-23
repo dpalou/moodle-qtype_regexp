@@ -148,7 +148,7 @@ class qtype_regexp_edit_form extends question_edit_form {
     }
 
     /**
-     * Perform any preprocessing needed on the data passed to {@link set_data()}
+     * Perform any preprocessing needed on the data passed in
      * before it is used to initialise the form.
      * @param object $question the data being passed to the form.
      * @return object $question the modified data.
